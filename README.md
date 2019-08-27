@@ -1,0 +1,1 @@
+JWT authorization in Go.
